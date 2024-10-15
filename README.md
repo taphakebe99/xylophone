@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-<img src="xylophone.png" alt="Texte alternatif" width="300" height="200">
+<img src="xylophone.png" alt="Texte alternatif" width="300" height="500">
 
 ## Mon objectif
 Dans ce tutoriel, je vais explorer des concepts de programmation Dart plus avancés, tels que les listes, les boucles, les fonctions, et bien plus encore. À la fin de ce module, je devrais être à l'aise avec l'utilisation des packages Flutter et la création de widgets répétitifs.
